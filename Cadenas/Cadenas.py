@@ -1,0 +1,2 @@
+fruta = 'Manzana'
+color = "Rojo"
