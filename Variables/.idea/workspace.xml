@@ -31,37 +31,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.Ejercicio Variables 2.executor": "Run",
-    "Python.Ejercicio Variables 3.executor": "Run",
-    "Python.Ejercicio Variables 4.executor": "Run",
-    "Python.Ejercicio Variables 5.executor": "Run",
-    "Python.Ejercicio Variables 6.executor": "Run",
-    "Python.Ejercicio Variables 7.executor": "Run",
-    "Python.Ejercicio Variables.executor": "Run",
-    "Python.Modificar variables.executor": "Run",
-    "Python.Nombres Variables.executor": "Run",
-    "Python.Tipos_Datos.executor": "Run",
-    "Python.Variables.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/Users/elpir/OneDrive/Documentos/Universidad Python Udemy/Variables",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Ejercicio Variables 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ejercicio Variables 3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ejercicio Variables 4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ejercicio Variables 5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ejercicio Variables 6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ejercicio Variables 7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ejercicio Variables.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Modificar variables.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Nombres Variables.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tipos_Datos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Variables.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/elpir/OneDrive/Documentos/Universidad Python Udemy/Variables&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.Ejercicio Variables 7">
     <configuration name="Ejercicio Variables 3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Variables" />
@@ -214,7 +214,8 @@
       <updated>1778006604252</updated>
       <workItem from="1778006605300" duration="9149000" />
       <workItem from="1778182565504" duration="81000" />
-      <workItem from="1778199715976" duration="2850000" />
+      <workItem from="1778199715976" duration="2882000" />
+      <workItem from="1778208653601" duration="24000" />
     </task>
     <servers />
   </component>
